@@ -12,7 +12,6 @@ namespace Lemonade_Stand
         {
             Game game = new Game();
             game.RunGame();
-            Console.ReadKey();
         }
     }
 }
